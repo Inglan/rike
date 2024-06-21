@@ -77,6 +77,6 @@ body{
 }
 @font-face {
     font-family: robo;
-    src: url(///media/fuse/drivefs-352c61abb624c09f05efd5bc81245cc1/root/SITE/roboto.ttf);
+    src: url(roboto.ttf);
 }
 *{font-family: robo;}
