@@ -67,6 +67,18 @@ body{
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
+.loader {
+    border: 16px solid #ffffff;
+    border-radius: 50%;
+    border-top: 16px solid #4d4dff;
+    background-color: #000000;
+    width: 120px;
+    height: 120px;
+    animation-name: rot;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
 @keyframes rot {
     0%{transform: rotate(0deg);}
     100%{transform: rotate(360deg);}
