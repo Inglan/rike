@@ -18,11 +18,6 @@ body{
     cursor: pointer;
     font-size: 30px;
     text-decoration: underline;
-    animation-name: sha;
-    animation-duration: 2s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
 }
 .home{
     background-color: black;
