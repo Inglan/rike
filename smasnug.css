@@ -68,7 +68,7 @@ body{
     animation-direction: alternate;
 }
 .loader {
-    border: 16px solid #ffffff;
+    border: 16px solid #252525;
     border-radius: 50%;
     border-top: 16px solid #4d4dff;
     background-color: #000000;
