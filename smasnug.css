@@ -71,6 +71,8 @@ body{
     border: 40px solid #0e1f3f;
     border-radius: 50%;
     border-top: 40px solid #184b6d;
+    border-left: 40px solid #164163;
+    border-bottom: 40px solid #112b4c;
     width: 200px;
     height: 200px;
     animation-name: rot;
