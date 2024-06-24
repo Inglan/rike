@@ -57,6 +57,7 @@ body{
     font-size: 40px;
 }
 .rroll{transform: rotate(0.25deg);
+    border-radius: 6969px;
     animation-name: rot;
     animation-duration: 2s;
     animation-timing-function: linear;
